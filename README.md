@@ -1,2 +1,2 @@
 # juit
-author Kumar Ansj
+author Kumar Ansh
